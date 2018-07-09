@@ -5,17 +5,17 @@ var mongoose = require("mongoose"),
 		{
 			name: "Cloud's Rest",
 			image: "https://media-cdn.tripadvisor.com/media/photo-s/06/48/e8/84/dead-horse-point-state.jpg",
-			description: "blag blag blah"
+			description: "Donec eu condimentum arcu, quis feugiat tortor. Maecenas nec erat nec erat tempor interdum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse neque tortor, luctus eu nunc id, iaculis mollis tortor. Donec ut mauris ac lacus aliquam suscipit a nec ex. Duis ac rutrum augue. Phasellus eget pulvinar libero. Nullam ultricies turpis quam. Cras euismod non neque a tincidunt. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed gravida nisi ultricies varius dignissim. Sed ac erat mi. Nunc pretium sem at interdum tempor. Cras consequat rutrum velit quis vulputate. Integer at neque at velit iaculis fringilla."
 		},
 		{
 			name: "Desert Mesa",
 			image: "http://1.bp.blogspot.com/_TqY7JA6Z37Y/TKh1LBtaBXI/AAAAAAAABzs/POEPtxAaVUc/s1600/IMG_0949s.jpg",
-			description: "blag blag blah"
+			description: "Donec eu condimentum arcu, quis feugiat tortor. Maecenas nec erat nec erat tempor interdum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse neque tortor, luctus eu nunc id, iaculis mollis tortor. Donec ut mauris ac lacus aliquam suscipit a nec ex. Duis ac rutrum augue. Phasellus eget pulvinar libero. Nullam ultricies turpis quam. Cras euismod non neque a tincidunt. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed gravida nisi ultricies varius dignissim. Sed ac erat mi. Nunc pretium sem at interdum tempor. Cras consequat rutrum velit quis vulputate. Integer at neque at velit iaculis fringilla."
 		},
 		{
 			name: "Canyon Floor",
 			image: "http://adventure-traveling.com/wp-content/uploads/2017/02/Top-5-Camping-Hiking-Spots-in-Alaska.jpg",
-			description: "blag blag blah"
+			description: "Donec eu condimentum arcu, quis feugiat tortor. Maecenas nec erat nec erat tempor interdum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse neque tortor, luctus eu nunc id, iaculis mollis tortor. Donec ut mauris ac lacus aliquam suscipit a nec ex. Duis ac rutrum augue. Phasellus eget pulvinar libero. Nullam ultricies turpis quam. Cras euismod non neque a tincidunt. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed gravida nisi ultricies varius dignissim. Sed ac erat mi. Nunc pretium sem at interdum tempor. Cras consequat rutrum velit quis vulputate. Integer at neque at velit iaculis fringilla."
 		}
 
 	];
